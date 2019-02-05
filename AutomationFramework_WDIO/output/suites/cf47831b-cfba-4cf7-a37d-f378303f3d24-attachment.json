@@ -1,0 +1,4 @@
+{
+    "using": "xpath",
+    "value": "//*[@resource-id='login_id']/android.widget.EditText"
+}

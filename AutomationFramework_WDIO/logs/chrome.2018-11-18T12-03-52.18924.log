@@ -1,0 +1,29 @@
+[17:33:52]  COMMAND	POST 	 "/wd/hub/session"
+[17:33:52]  DATA		{"desiredCapabilities":{"javascriptEnabled":true,"locationContextEnabled":true,"handlesAlerts":true,"rotatable":true,"maxInstances":5,"browserName":"chrome","loggingPrefs":{"browser":"ALL","driver":"ALL"},"requestOrigins":{"url":"http://webdriver.io","version":"4.13.2","name":"webdriverio"}}}
+[17:34:02]  INFO	SET SESSION ID 0abcf053897e3af645c04b540338a8eb
+[17:34:02]  RESULT		{"acceptInsecureCerts":false,"acceptSslCerts":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"browserName":"chrome","chrome":{"chromedriverVersion":"2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a)","userDataDir":"C:\\Users\\z003z7wz\\AppData\\Local\\Temp\\scoped_dir19696_22214"},"cssSelectorsEnabled":true,"databaseEnabled":false,"goog:chromeOptions":{"debuggerAddress":"localhost:49628"},"handlesAlerts":true,"hasTouchScreen":false,"javascriptEnabled":true,"locationContextEnabled":true,"mobileEmulationEnabled":false,"nativeEvents":true,"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platform":"Windows NT","rotatable":false,"setWindowRect":true,"takesHeapSnapshot":true,"takesScreenshot":true,"unexpectedAlertBehaviour":"","version":"70.0.3538.102","webStorageEnabled":true,"webdriver.remote.sessionid":"0abcf053897e3af645c04b540338a8eb"}
+[17:34:05]  COMMAND	POST 	 "/wd/hub/session/0abcf053897e3af645c04b540338a8eb/url"
+[17:34:05]  DATA		{"url":"https://google.com/"}
+[17:34:07]  COMMAND	GET 	 "/wd/hub/session/0abcf053897e3af645c04b540338a8eb/title"
+[17:34:07]  DATA		{}
+[17:34:07]  RESULT		"Google"
+[17:34:07]  COMMAND	POST 	 "/wd/hub/session/0abcf053897e3af645c04b540338a8eb/url"
+[17:34:07]  DATA		{"url":"https://google.com/"}
+[17:34:08]  COMMAND	POST 	 "/wd/hub/session/0abcf053897e3af645c04b540338a8eb/element"
+[17:34:08]  DATA		{"using":"id","value":"SIvCob"}
+[17:34:08]  RESULT		{"ELEMENT":"0.5937890811123194-1"}
+[17:34:08]  COMMAND	GET 	 "/wd/hub/session/0abcf053897e3af645c04b540338a8eb/element/0.5937890811123194-1/text"
+[17:34:08]  DATA		{}
+[17:34:08]  RESULT		"Google offered in: हिन्दी বাংলা తెలుగు मराठी தமிழ் ગુજરાતી ಕನ್ನಡ മലയാളം ਪੰਜਾਬੀ"
+[17:34:08]  COMMAND	POST 	 "/wd/hub/session/0abcf053897e3af645c04b540338a8eb/url"
+[17:34:08]  DATA		{"url":"https://google.com/"}
+[17:34:08]  COMMAND	POST 	 "/wd/hub/session/0abcf053897e3af645c04b540338a8eb/url"
+[17:34:08]  DATA		{"url":"https://the-internet.herokuapp.com/"}
+[17:34:13]  COMMAND	POST 	 "/wd/hub/session/0abcf053897e3af645c04b540338a8eb/elements"
+[17:34:13]  DATA		{"using":"xpath","value":"(//li/descendant::a)[1]"}
+[17:34:13]  RESULT		[{"ELEMENT":"0.7771543766749645-1"}]
+[17:34:13]  COMMAND	GET 	 "/wd/hub/session/0abcf053897e3af645c04b540338a8eb/element/0.7771543766749645-1/text"
+[17:34:13]  DATA		{}
+[17:34:13]  RESULT		"A/B Testing"
+[17:34:13]  COMMAND	DELETE 	 "/wd/hub/session/0abcf053897e3af645c04b540338a8eb"
+[17:34:13]  DATA		{}

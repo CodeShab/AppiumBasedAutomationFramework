@@ -1,0 +1,15 @@
+{
+    "application_url": "https://ctblrdev-energylite-ctblrdev.eu1.mindsphere.io/#/dashboard",
+    "userName1": "pritish@gmail.com",
+    "password1": "Qwerty1!",
+    "userName2" : "",
+    "password2" : "",
+    "database_Config" : {
+        "url": "jdbc:oracle:thin:RINS2_CORE_USER/welcometoapplerinscoreuser@//zina.corp.apple.com:1752/rinsd",
+	    "drivername": "oracle.jdbc.driver.OracleDriver",
+	    "minpoolsize": 5,
+	    "maxpoolsize": 10,
+	    "user": "RINS2_CORE_USER",
+	    "password": "welcometoapplerinscoreuser@"
+    }
+}

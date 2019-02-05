@@ -1,0 +1,4 @@
+{
+    "using": "xpath",
+    "value": "//android.view.View[@resource-id='login_id']/../../../following-sibling::android.view.View/descendant::android.widget.EditText"
+}

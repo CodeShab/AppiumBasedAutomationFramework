@@ -1,0 +1,12 @@
+{
+  "TC_001_API": {
+    "": "TC_001_API",
+    "baseUrl": "https://www.google.com",
+    "responseCode": 200
+  },
+  "null": {
+    "": null,
+    "baseUrl": null,
+    "responseCode": null
+  }
+}

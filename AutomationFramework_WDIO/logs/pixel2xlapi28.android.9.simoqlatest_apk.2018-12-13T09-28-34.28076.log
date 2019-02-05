@@ -1,0 +1,51 @@
+[14:58:34]  COMMAND	POST 	 "/wd/hub/session"
+[14:58:34]  DATA		{"desiredCapabilities":{"javascriptEnabled":true,"locationContextEnabled":true,"handlesAlerts":true,"rotatable":true,"automationName":"UiAutomator2","platformName":"Android","platformVersion":"9","deviceName":"Pixel 2 XL API 28","app":"C:/Users/z003z7wz/Downloads/SimoQLatest.apk","requestOrigins":{"url":"http://webdriver.io","version":"4.13.2","name":"webdriverio"}}}
+[14:59:01]  INFO	SET SESSION ID 4d98a14b-59b2-4e7f-9b33-40aea03ce959
+[14:59:01]  RESULT		{"platform":"LINUX","webStorageEnabled":false,"takesScreenshot":true,"javascriptEnabled":true,"databaseEnabled":false,"networkConnectionEnabled":true,"locationContextEnabled":true,"warnings":{},"desir ... (944 more bytes)
+[14:59:10]  COMMAND	POST 	 "/wd/hub/session/4d98a14b-59b2-4e7f-9b33-40aea03ce959/element"
+[14:59:10]  DATA		{"using":"xpath","value":"//*[@resource-id='login_id']/android.widget.EditText"}
+[14:59:11]  RESULT		{"ELEMENT":"d5c518dd-51e6-488d-8e68-511b07d6d537"}
+[14:59:11]  COMMAND	POST 	 "/wd/hub/session/4d98a14b-59b2-4e7f-9b33-40aea03ce959/elements"
+[14:59:11]  DATA		{"using":"xpath","value":"//*[@resource-id='login_id']/android.widget.EditText"}
+[14:59:12]  RESULT		[{"ELEMENT":"c7b9e9bc-535b-4cf9-acde-805a5d185067"}]
+[14:59:12]  COMMAND	GET 	 "/wd/hub/session/4d98a14b-59b2-4e7f-9b33-40aea03ce959/screenshot"
+[14:59:12]  DATA		{}
+[14:59:14]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAtACAIAAABhuRNAAAAAAXNSR0IArs4c6QAAAANzQklUCAgI\n2+FP4AAAIABJREFUeJzsvdlyJDmypglzLhFk7GtGZlZWZlfPaekZkXmDuZ6buZkn7ucYaZk5VZVr\n7HuQDG42F3TQFVD9FWYwwMzcQv8Ll3NYrvzcFR9UEEg ... (357864 more bytes)
+[14:59:14]  COMMAND	POST 	 "/wd/hub/session/4d98a14b-59b2-4e7f-9b33-40aea03ce959/element"
+[14:59:14]  DATA		{"using":"xpath","value":"//*[@resource-id='login_id']/android.widget.EditText"}
+[14:59:15]  RESULT		{"ELEMENT":"1993c6f8-ad6f-484f-add7-967635f210f3"}
+[14:59:15]  COMMAND	POST 	 "/wd/hub/session/4d98a14b-59b2-4e7f-9b33-40aea03ce959/element/1993c6f8-ad6f-484f-add7-967635f210f3/clear"
+[14:59:15]  DATA		{}
+[14:59:15]  RESULT		"Element Cleared"
+[14:59:15]  COMMAND	POST 	 "/wd/hub/session/4d98a14b-59b2-4e7f-9b33-40aea03ce959/element/1993c6f8-ad6f-484f-add7-967635f210f3/value"
+[14:59:15]  DATA		{"value":["p","r","i","t","i","s","h","@","g","m","(7 more items)"],"text":"pritish@gmail.com"}
+[14:59:15]  COMMAND	POST 	 "/wd/hub/session/4d98a14b-59b2-4e7f-9b33-40aea03ce959/element"
+[14:59:15]  DATA		{"using":"xpath","value":"//android.view.View[@resource-id='login_id']/../../../following-sibling::android.view.View/descendant::android.widget.EditText"}
+[14:59:16]  RESULT		{"ELEMENT":"77b1628c-d679-4570-bcf2-b514a64a8933"}
+[14:59:16]  COMMAND	POST 	 "/wd/hub/session/4d98a14b-59b2-4e7f-9b33-40aea03ce959/element/77b1628c-d679-4570-bcf2-b514a64a8933/clear"
+[14:59:16]  DATA		{}
+[14:59:16]  RESULT		"Element Cleared"
+[14:59:16]  COMMAND	POST 	 "/wd/hub/session/4d98a14b-59b2-4e7f-9b33-40aea03ce959/element/77b1628c-d679-4570-bcf2-b514a64a8933/value"
+[14:59:16]  DATA		{"value":["q","w","e","r","t","y","1","!"],"text":"qwerty1!"}
+[14:59:16]  COMMAND	POST 	 "/wd/hub/session/4d98a14b-59b2-4e7f-9b33-40aea03ce959/element"
+[14:59:16]  DATA		{"using":"xpath","value":"//android.widget.Button[contains(@text,'Login')]"}
+[14:59:17]  RESULT		{"ELEMENT":"3d652cd5-e626-405a-9aea-2d7158d811aa"}
+[14:59:17]  COMMAND	POST 	 "/wd/hub/session/4d98a14b-59b2-4e7f-9b33-40aea03ce959/element/3d652cd5-e626-405a-9aea-2d7158d811aa/click"
+[14:59:17]  DATA		{}
+[14:59:17]  RESULT		true
+[14:59:17]  COMMAND	POST 	 "/wd/hub/session/4d98a14b-59b2-4e7f-9b33-40aea03ce959/element"
+[14:59:17]  DATA		{"using":"xpath","value":"//*[@resource-id='alert-msg-0']"}
+[14:59:20]  COMMAND	POST 	 "/wd/hub/session/4d98a14b-59b2-4e7f-9b33-40aea03ce959/elements"
+[14:59:20]  DATA		{"using":"xpath","value":"//*[@resource-id='alert-msg-0']"}
+[14:59:21]  RESULT		[{"ELEMENT":"6a02fdd0-29e0-4969-a3e1-3bb4eb0356fa"}]
+[14:59:21]  COMMAND	GET 	 "/wd/hub/session/4d98a14b-59b2-4e7f-9b33-40aea03ce959/screenshot"
+[14:59:21]  DATA		{}
+[14:59:22]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAtACAIAAABhuRNAAAAAAXNSR0IArs4c6QAAAANzQklUCAgI\n2+FP4AAAIABJREFUeJzsvdmTJEt23ueRmbXvVb337e47dzbMACQGJEiJABcjRQIQKdIg6kUyk9n8\neTKZZCaTHkCYSIGkqBcaBBkEAQRIDme5fXvv6q6urr2 ... (301084 more bytes)
+[14:59:22]  COMMAND	POST 	 "/wd/hub/session/4d98a14b-59b2-4e7f-9b33-40aea03ce959/element"
+[14:59:22]  DATA		{"using":"xpath","value":"//*[@resource-id='alert-msg-0']"}
+[14:59:23]  RESULT		{"ELEMENT":"1fb366eb-c6fa-4c25-9798-c23caf225d97"}
+[14:59:23]  COMMAND	GET 	 "/wd/hub/session/4d98a14b-59b2-4e7f-9b33-40aea03ce959/element/1fb366eb-c6fa-4c25-9798-c23caf225d97/text"
+[14:59:23]  DATA		{}
+[14:59:23]  RESULT		"Enter correct credentials !!"
+[14:59:23]  COMMAND	DELETE 	 "/wd/hub/session/4d98a14b-59b2-4e7f-9b33-40aea03ce959"
+[14:59:23]  DATA		{}

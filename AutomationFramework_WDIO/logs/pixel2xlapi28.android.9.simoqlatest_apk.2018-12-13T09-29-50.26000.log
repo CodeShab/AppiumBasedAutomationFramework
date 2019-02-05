@@ -1,0 +1,430 @@
+[14:59:50]  COMMAND	POST 	 "/wd/hub/session"
+[14:59:50]  DATA		{"desiredCapabilities":{"javascriptEnabled":true,"locationContextEnabled":true,"handlesAlerts":true,"rotatable":true,"automationName":"UiAutomator2","platformName":"Android","platformVersion":"9","deviceName":"Pixel 2 XL API 28","app":"C:/Users/z003z7wz/Downloads/SimoQLatest.apk","requestOrigins":{"url":"http://webdriver.io","version":"4.13.2","name":"webdriverio"}}}
+[15:00:10]  INFO	SET SESSION ID cc3e29e6-a224-4948-aef8-d10f4ba69289
+[15:00:10]  RESULT		{"platform":"LINUX","webStorageEnabled":false,"takesScreenshot":true,"javascriptEnabled":true,"databaseEnabled":false,"networkConnectionEnabled":true,"locationContextEnabled":true,"warnings":{},"desir ... (944 more bytes)
+[15:00:12]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:00:12]  DATA		{"using":"xpath","value":"//*[@resource-id='login_id']/android.widget.EditText"}
+[15:00:13]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:00:13]  DATA		{"using":"xpath","value":"//*[@resource-id='login_id']/android.widget.EditText"}
+[15:00:13]  RESULT		[]
+[15:00:13]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:00:13]  DATA		{"using":"xpath","value":"//*[@resource-id='login_id']/android.widget.EditText"}
+[15:00:13]  RESULT		[]
+[15:00:14]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:00:14]  DATA		{"using":"xpath","value":"//*[@resource-id='login_id']/android.widget.EditText"}
+[15:00:14]  RESULT		[]
+[15:00:14]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:00:14]  DATA		{"using":"xpath","value":"//*[@resource-id='login_id']/android.widget.EditText"}
+[15:00:14]  RESULT		[]
+[15:00:15]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:00:15]  DATA		{"using":"xpath","value":"//*[@resource-id='login_id']/android.widget.EditText"}
+[15:00:15]  RESULT		[]
+[15:00:15]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:00:15]  DATA		{"using":"xpath","value":"//*[@resource-id='login_id']/android.widget.EditText"}
+[15:00:15]  RESULT		[]
+[15:00:16]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:00:16]  DATA		{"using":"xpath","value":"//*[@resource-id='login_id']/android.widget.EditText"}
+[15:00:17]  RESULT		[{"ELEMENT":"00b37e3b-eea7-4efd-94c9-28264aac46ca"}]
+[15:00:17]  COMMAND	GET 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/screenshot"
+[15:00:17]  DATA		{}
+[15:00:18]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAtACAIAAABhuRNAAAAAAXNSR0IArs4c6QAAAANzQklUCAgI\n2+FP4AAAIABJREFUeJzsvdtyHEmSpmkeIAEek2TykFlZx+6RGZl9h73em73ZJ57nGBmR6amuqswk\nmWTyfCbgewEYQtVUfzV3czN3D6f+FyFdaFd8CLXPVIy ... (356570 more bytes)
+[15:00:18]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:00:18]  DATA		{"using":"xpath","value":"//*[@resource-id='login_id']/android.widget.EditText"}
+[15:00:19]  RESULT		{"ELEMENT":"bd5cfa22-680d-41d3-a6b6-93ccf88e20f8"}
+[15:00:19]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/bd5cfa22-680d-41d3-a6b6-93ccf88e20f8/clear"
+[15:00:19]  DATA		{}
+[15:00:19]  RESULT		"Element Cleared"
+[15:00:19]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/bd5cfa22-680d-41d3-a6b6-93ccf88e20f8/value"
+[15:00:19]  DATA		{"value":["p","r","i","t","i","s","h","@","g","m","(7 more items)"],"text":"pritish@gmail.com"}
+[15:00:19]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:00:19]  DATA		{"using":"xpath","value":"//android.view.View[@resource-id='login_id']/../../../following-sibling::android.view.View/descendant::android.widget.EditText"}
+[15:00:20]  RESULT		{"ELEMENT":"1871a754-5e26-4870-9680-79f8e8a747e8"}
+[15:00:20]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/1871a754-5e26-4870-9680-79f8e8a747e8/clear"
+[15:00:20]  DATA		{}
+[15:00:20]  RESULT		"Element Cleared"
+[15:00:20]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/1871a754-5e26-4870-9680-79f8e8a747e8/value"
+[15:00:20]  DATA		{"value":["q","w","e","r","t","y","1","!"],"text":"qwerty1!"}
+[15:00:21]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:00:21]  DATA		{"using":"xpath","value":"//android.widget.Button[contains(@text,'Login')]"}
+[15:00:21]  RESULT		{"ELEMENT":"dbcfe251-3ad9-48e1-867d-6ad0c62ff670"}
+[15:00:21]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/dbcfe251-3ad9-48e1-867d-6ad0c62ff670/click"
+[15:00:21]  DATA		{}
+[15:00:22]  RESULT		true
+[15:00:22]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:00:22]  DATA		{"using":"xpath","value":"//*[@resource-id='alert-msg-0']"}
+[15:00:23]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:00:23]  DATA		{"using":"xpath","value":"//*[@resource-id='alert-msg-0']"}
+[15:00:24]  RESULT		[{"ELEMENT":"700f42fa-35aa-4062-a3e1-6c97492475c9"}]
+[15:00:24]  COMMAND	GET 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/screenshot"
+[15:00:24]  DATA		{}
+[15:00:25]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAtACAIAAABhuRNAAAAAAXNSR0IArs4c6QAAAANzQklUCAgI\n2+FP4AAAIABJREFUeJzsvdmTJEt23ueRmZW1b1293e7b3ffe2TADCBgshEiAII0iCYwIgQaBL5JM\nZvPPyUwmk8xk0gMIEykQFPgCgyCDIAwBEINZ7tJ7d1V ... (300202 more bytes)
+[15:00:25]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:00:25]  DATA		{"using":"xpath","value":"//*[@resource-id='alert-msg-0']"}
+[15:00:25]  RESULT		{"ELEMENT":"8648ddd7-c8ba-499d-b04e-38f20243f82a"}
+[15:00:25]  COMMAND	GET 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/8648ddd7-c8ba-499d-b04e-38f20243f82a/text"
+[15:00:25]  DATA		{}
+[15:00:25]  RESULT		"Enter correct credentials !!"
+[15:00:25]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:00:25]  DATA		{"using":"xpath","value":"//android.widget.Button[contains(@text,'OK')]"}
+[15:00:26]  RESULT		{"ELEMENT":"a3e52d9f-3ce7-4f07-9559-a5d268d997d2"}
+[15:00:26]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/a3e52d9f-3ce7-4f07-9559-a5d268d997d2/click"
+[15:00:26]  DATA		{}
+[15:00:26]  RESULT		true
+[15:00:26]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:00:26]  DATA		{"using":"xpath","value":"//*[@resource-id='login_id']/android.widget.EditText"}
+[15:00:28]  RESULT		{"ELEMENT":"ee17c3b7-9157-4f99-9d49-e9da3f0f7006"}
+[15:00:28]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:00:28]  DATA		{"using":"xpath","value":"//*[@resource-id='login_id']/android.widget.EditText"}
+[15:00:28]  RESULT		[{"ELEMENT":"8f1385f4-512f-4e93-8cca-d2b0e1fecf40"}]
+[15:00:28]  COMMAND	GET 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/screenshot"
+[15:00:28]  DATA		{}
+[15:00:29]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAtACAIAAABhuRNAAAAAAXNSR0IArs4c6QAAAANzQklUCAgI\n2+FP4AAAIABJREFUeJzsvdtyHEmSpmkeIAEek2TykFlZx+6RGZl9h73em73ZJ57nGBmR6amuqswk\nmWTyfCbgewEYQtVUfzV3czN3D6f+FyFdaFd8CLXPVIy ... (374142 more bytes)
+[15:00:29]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:00:29]  DATA		{"using":"xpath","value":"//*[@resource-id='login_id']/android.widget.EditText"}
+[15:00:29]  RESULT		{"ELEMENT":"7f7f937c-1fe9-4df0-8aad-72e2ac550bd2"}
+[15:00:29]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/7f7f937c-1fe9-4df0-8aad-72e2ac550bd2/clear"
+[15:00:29]  DATA		{}
+[15:00:29]  RESULT		"Element Cleared"
+[15:00:29]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/7f7f937c-1fe9-4df0-8aad-72e2ac550bd2/value"
+[15:00:29]  DATA		{"value":["p","r","i","t","i","s","h","@","g","m","(7 more items)"],"text":"pritish@gmail.com"}
+[15:00:30]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:00:30]  DATA		{"using":"xpath","value":"//android.view.View[@resource-id='login_id']/../../../following-sibling::android.view.View/descendant::android.widget.EditText"}
+[15:00:31]  RESULT		{"ELEMENT":"5d69fe27-6eef-4b56-b1bf-cb36305cdaa8"}
+[15:00:31]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/5d69fe27-6eef-4b56-b1bf-cb36305cdaa8/clear"
+[15:00:31]  DATA		{}
+[15:00:31]  RESULT		"Element Cleared"
+[15:00:31]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/5d69fe27-6eef-4b56-b1bf-cb36305cdaa8/value"
+[15:00:31]  DATA		{"value":["Q","w","e","r","t","y","1","!"],"text":"Qwerty1!"}
+[15:00:32]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:00:32]  DATA		{"using":"xpath","value":"//android.widget.Button[contains(@text,'Login')]"}
+[15:00:33]  RESULT		{"ELEMENT":"ead0d598-6209-40bb-88a3-2fb78abce2ca"}
+[15:00:33]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/ead0d598-6209-40bb-88a3-2fb78abce2ca/click"
+[15:00:33]  DATA		{}
+[15:00:33]  RESULT		true
+[15:00:33]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:00:33]  DATA		{"using":"xpath","value":"//android.widget.Button[contains(@resource-id,'permission_allow_button')]"}
+[15:00:34]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:00:34]  DATA		{"using":"xpath","value":"//android.widget.Button[contains(@resource-id,'permission_allow_button')]"}
+[15:00:35]  RESULT		[]
+[15:00:35]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:00:35]  DATA		{"using":"xpath","value":"//android.widget.Button[contains(@resource-id,'permission_allow_button')]"}
+[15:00:36]  RESULT		[]
+[15:00:36]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:00:36]  DATA		{"using":"xpath","value":"//android.widget.Button[contains(@resource-id,'permission_allow_button')]"}
+[15:00:37]  RESULT		[]
+[15:00:37]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:00:37]  DATA		{"using":"xpath","value":"//android.widget.Button[contains(@resource-id,'permission_allow_button')]"}
+[15:00:38]  RESULT		[{"ELEMENT":"3d45ed6c-d306-4057-a5a0-a89790aa714e"}]
+[15:00:38]  COMMAND	GET 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/screenshot"
+[15:00:38]  DATA		{}
+[15:00:39]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAtACAIAAABhuRNAAAAAAXNSR0IArs4c6QAAAANzQklUCAgI\n2+FP4AAAIABJREFUeJzs3XmcW1dh9/9zr67W2ffV+zZjO3YMBSeQAIUuPJQQoBQCKS2QJgXK05ZC\nW562v9LSh1fbH5SWNdAA/ZWWtYX21z5tydKQ4OwbtmO ... (288546 more bytes)
+[15:00:39]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:00:39]  DATA		{"using":"xpath","value":"//android.widget.Button[contains(@resource-id,'permission_allow_button')]"}
+[15:00:39]  RESULT		{"ELEMENT":"8cf4141b-009b-413e-b1f3-e842c0c117dc"}
+[15:00:39]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/8cf4141b-009b-413e-b1f3-e842c0c117dc/click"
+[15:00:39]  DATA		{}
+[15:00:39]  RESULT		true
+[15:00:39]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:00:39]  DATA		{"using":"xpath","value":"//android.view.View[@text='SimoAssist']"}
+[15:00:39]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:00:39]  DATA		{"using":"xpath","value":"//android.view.View[@text='SimoAssist']"}
+[15:00:41]  RESULT		[{"ELEMENT":"9bdc67fe-04af-4454-a170-112691400d28"}]
+[15:00:41]  COMMAND	GET 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/screenshot"
+[15:00:41]  DATA		{}
+[15:00:42]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAtACAIAAABhuRNAAAAAAXNSR0IArs4c6QAAAANzQklUCAgI\n2+FP4AAAIABJREFUeJzs3XmcXFWB9vFzbu3VXV29b+nshCQQwr6FQNhFYGQQEJARUMQNdUYdUcFX\n38/ojCOMjPoqorgiIIgbgoAIIZAAAYEQCJiFbCS9712 ... (299652 more bytes)
+[15:00:42]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:00:42]  DATA		{"using":"xpath","value":"//android.view.View[@text='SimoAssist']"}
+[15:00:44]  RESULT		{"ELEMENT":"c6f5cd46-10fa-429a-a71a-cf40f70c185c"}
+[15:00:44]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/c6f5cd46-10fa-429a-a71a-cf40f70c185c/click"
+[15:00:44]  DATA		{}
+[15:00:45]  RESULT		true
+[15:00:45]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:00:45]  DATA		{"using":"xpath","value":"//android.widget.Spinner[contains(@text,'Power rating')]"}
+[15:00:47]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:00:47]  DATA		{"using":"xpath","value":"//android.widget.Spinner[contains(@text,'Power rating')]"}
+[15:00:48]  RESULT		[]
+[15:00:48]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:00:48]  DATA		{"using":"xpath","value":"//android.widget.Spinner[contains(@text,'Power rating')]"}
+[15:00:49]  RESULT		[]
+[15:00:49]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:00:49]  DATA		{"using":"xpath","value":"//android.widget.Spinner[contains(@text,'Power rating')]"}
+[15:00:50]  RESULT		[]
+[15:00:50]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:00:50]  DATA		{"using":"xpath","value":"//android.widget.Spinner[contains(@text,'Power rating')]"}
+[15:00:51]  RESULT		[]
+[15:00:51]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:00:51]  DATA		{"using":"xpath","value":"//android.widget.Spinner[contains(@text,'Power rating')]"}
+[15:00:52]  RESULT		[]
+[15:00:52]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:00:52]  DATA		{"using":"xpath","value":"//android.widget.Spinner[contains(@text,'Power rating')]"}
+[15:00:54]  RESULT		[{"ELEMENT":"54e2c635-6aae-44f4-8f6c-0e4250a8d8f6"}]
+[15:00:54]  COMMAND	GET 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/screenshot"
+[15:00:54]  DATA		{}
+[15:00:54]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAtACAIAAABhuRNAAAAAAXNSR0IArs4c6QAAAANzQklUCAgI\n2+FP4AAAIABJREFUeJzs3WV8lFf+9/FrXJKJG0mw0AR3t+LQrRssXeq0Xaj960JLW1rqslulutXd\n+tYo7g4tEhxSgkWJZzIzyWTkfpDebJi5ZjIzGU0+79c ... (221512 more bytes)
+[15:00:54]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:00:54]  DATA		{"using":"xpath","value":"//android.widget.Spinner[contains(@text,'Power rating')]"}
+[15:00:55]  RESULT		{"ELEMENT":"027be79a-ba35-4370-823c-7f96d064abf2"}
+[15:00:55]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/027be79a-ba35-4370-823c-7f96d064abf2/click"
+[15:00:55]  DATA		{}
+[15:00:55]  RESULT		true
+[15:00:55]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:00:55]  DATA		{"using":"xpath","value":"//android.widget.RadioButton[@text='1.1']"}
+[15:00:59]  RESULT		{"ELEMENT":"c1e44789-cbd6-4bc2-b1e3-e1226ff23b5f"}
+[15:00:59]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:00:59]  DATA		{"using":"xpath","value":"//android.widget.RadioButton[@text='1.1']"}
+[15:01:04]  RESULT		[{"ELEMENT":"50131b4e-6ca4-4785-aaea-1b330fef7acb"}]
+[15:01:04]  COMMAND	GET 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/screenshot"
+[15:01:04]  DATA		{}
+[15:01:04]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAtACAIAAABhuRNAAAAAAXNSR0IArs4c6QAAAANzQklUCAgI\n2+FP4AAAIABJREFUeJzs3Xd8k+X+//E7e7RpuksXUKTssmTLFBD3VtwD9bj3EQeKCu6jB48L99Hj\n8Rz3cbA3yEZW2astLd27aZKOjN8f9ce3JHfSJE2TJn0 ... (223474 more bytes)
+[15:01:04]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:01:04]  DATA		{"using":"xpath","value":"//android.widget.RadioButton[@text='1.1']"}
+[15:01:09]  RESULT		{"ELEMENT":"6f048ff6-0105-4cca-a4ee-7eda76dd266b"}
+[15:01:09]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/6f048ff6-0105-4cca-a4ee-7eda76dd266b/click"
+[15:01:09]  DATA		{}
+[15:01:09]  RESULT		true
+[15:01:09]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:01:09]  DATA		{"using":"xpath","value":"//android.widget.Spinner[contains(@text,'Construction')]"}
+[15:01:11]  RESULT		{"ELEMENT":"c3252422-53c4-49ee-87f9-48f75f048b31"}
+[15:01:11]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:01:11]  DATA		{"using":"xpath","value":"//android.widget.Spinner[contains(@text,'Construction')]"}
+[15:01:12]  RESULT		[{"ELEMENT":"45b97195-b687-4581-91f3-db695eeecdfa"}]
+[15:01:12]  COMMAND	GET 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/screenshot"
+[15:01:12]  DATA		{}
+[15:01:13]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAtACAIAAABhuRNAAAAAAXNSR0IArs4c6QAAAANzQklUCAgI\n2+FP4AAAIABJREFUeJzs3Xd8U9fdx/GrPWx5L2yzTGz23itsSLMXlJRskhSymj1ISEJD9mgzyWxm\nm90swt4bEobZ4GCWJ96WJdmyxvOH81AjXcmSLGv5837 ... (219710 more bytes)
+[15:01:13]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:01:13]  DATA		{"using":"xpath","value":"//android.widget.Spinner[contains(@text,'Construction')]"}
+[15:01:14]  RESULT		{"ELEMENT":"6c30a8c0-6d6e-4868-9071-b1ad9c762dcf"}
+[15:01:14]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/6c30a8c0-6d6e-4868-9071-b1ad9c762dcf/click"
+[15:01:14]  DATA		{}
+[15:01:14]  RESULT		true
+[15:01:14]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:01:14]  DATA		{"using":"xpath","value":"//android.widget.RadioButton[@text='IMB35']"}
+[15:01:15]  RESULT		{"ELEMENT":"339956ae-472d-4eed-9a6c-f892584add22"}
+[15:01:15]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:01:15]  DATA		{"using":"xpath","value":"//android.widget.RadioButton[@text='IMB35']"}
+[15:01:17]  RESULT		[{"ELEMENT":"6d4d6a20-06e1-4c3d-b917-8bf192724311"}]
+[15:01:17]  COMMAND	GET 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/screenshot"
+[15:01:17]  DATA		{}
+[15:01:18]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAtACAIAAABhuRNAAAAAAXNSR0IArs4c6QAAAANzQklUCAgI\n2+FP4AAAIABJREFUeJzs3Xd8k+X+//E7e7RpuksXUKTssmTLFBD3VtwD9bj3EQeKCu6jB48L99Hj\n8Rz3cbA3yEZW2astLd27aZKOjN8f9ce3JHfSJE2TJn0 ... (238816 more bytes)
+[15:01:18]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:01:18]  DATA		{"using":"xpath","value":"//android.widget.RadioButton[@text='IMB35']"}
+[15:01:19]  RESULT		{"ELEMENT":"05c7146a-516f-4c57-85ac-75a85087f88c"}
+[15:01:19]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/05c7146a-516f-4c57-85ac-75a85087f88c/click"
+[15:01:19]  DATA		{}
+[15:01:19]  RESULT		true
+[15:01:19]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:01:19]  DATA		{"using":"xpath","value":"//android.widget.Spinner[contains(@text,'Efficiency')]"}
+[15:01:21]  RESULT		{"ELEMENT":"837b1195-662b-4e1e-b286-f47d039716b6"}
+[15:01:21]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:01:21]  DATA		{"using":"xpath","value":"//android.widget.Spinner[contains(@text,'Efficiency')]"}
+[15:01:22]  RESULT		[{"ELEMENT":"0c47b975-5b8d-44af-8261-5019ccbe015c"}]
+[15:01:22]  COMMAND	GET 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/screenshot"
+[15:01:22]  DATA		{}
+[15:01:23]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAtACAIAAABhuRNAAAAAAXNSR0IArs4c6QAAAANzQklUCAgI\n2+FP4AAAIABJREFUeJzs3Xd8U9fdx/GrPWx5L2yzTGz23itsSLMXlJRskhSymj1ISEJD9mgzyWxm\nm90swt4bEobZ4GCWJ96WJdmyxvOH81AjXcmSLGv5837 ... (223450 more bytes)
+[15:01:23]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:01:23]  DATA		{"using":"xpath","value":"//android.widget.Spinner[contains(@text,'Efficiency')]"}
+[15:01:24]  RESULT		{"ELEMENT":"cf2a4622-9729-45e7-98cb-7b600af18ece"}
+[15:01:24]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/cf2a4622-9729-45e7-98cb-7b600af18ece/click"
+[15:01:24]  DATA		{}
+[15:01:24]  RESULT		true
+[15:01:24]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:01:24]  DATA		{"using":"xpath","value":"//android.widget.RadioButton[@text='IE3']"}
+[15:01:26]  RESULT		{"ELEMENT":"8a1fade9-4363-40d0-ba3c-9e57f6c074ba"}
+[15:01:26]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:01:26]  DATA		{"using":"xpath","value":"//android.widget.RadioButton[@text='IE3']"}
+[15:01:27]  RESULT		[{"ELEMENT":"3b8c9699-d32b-44d3-adf3-457f25f8cb45"}]
+[15:01:27]  COMMAND	GET 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/screenshot"
+[15:01:27]  DATA		{}
+[15:01:28]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAtACAIAAABhuRNAAAAAAXNSR0IArs4c6QAAAANzQklUCAgI\n2+FP4AAAIABJREFUeJzs3Xd8k+X+//E7e7RpuksXUKTssmTLFBD3VtwD9bj3EQeKCu6jB48L99Hj\n8Rz3cbA3yEZW2astLd27aZKOjN8f9ce3JHfSJE2TJn0 ... (238898 more bytes)
+[15:01:28]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:01:28]  DATA		{"using":"xpath","value":"//android.widget.RadioButton[@text='IE3']"}
+[15:01:29]  RESULT		{"ELEMENT":"0f73a8e9-ebf5-444c-9593-5a5f0787d1a8"}
+[15:01:29]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/0f73a8e9-ebf5-444c-9593-5a5f0787d1a8/click"
+[15:01:29]  DATA		{}
+[15:01:30]  RESULT		true
+[15:01:30]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:01:30]  DATA		{"using":"xpath","value":"//android.widget.Spinner[contains(@text,'Pole')]"}
+[15:01:31]  RESULT		{"ELEMENT":"b9a1e4d5-638a-4c7c-b422-6a7ff238e281"}
+[15:01:31]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:01:31]  DATA		{"using":"xpath","value":"//android.widget.Spinner[contains(@text,'Pole')]"}
+[15:01:33]  RESULT		[{"ELEMENT":"a1ee1e73-6f2e-4849-be7e-6c53cf4d2e08"}]
+[15:01:33]  COMMAND	GET 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/screenshot"
+[15:01:33]  DATA		{}
+[15:01:33]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAtACAIAAABhuRNAAAAAAXNSR0IArs4c6QAAAANzQklUCAgI\n2+FP4AAAIABJREFUeJzs3Xd8U9fdx/GrPWx5L2yzTGz23itsSLMXlJRskhSymj1ISEJD9mgzyWxm\nm90swt4bEobZ4GCWJ96WJdmyxvOH81AjXcmSLGv5837 ... (223880 more bytes)
+[15:01:33]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:01:33]  DATA		{"using":"xpath","value":"//android.widget.Spinner[contains(@text,'Pole')]"}
+[15:01:34]  RESULT		{"ELEMENT":"b9d101d8-88f1-464d-8062-eb5c19a1c7b2"}
+[15:01:34]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/b9d101d8-88f1-464d-8062-eb5c19a1c7b2/click"
+[15:01:34]  DATA		{}
+[15:01:34]  RESULT		true
+[15:01:34]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:01:34]  DATA		{"using":"xpath","value":"//android.widget.RadioButton[@text='2P']"}
+[15:01:37]  RESULT		{"ELEMENT":"adec9c93-6dfb-4b68-8165-b4ed5ad3ff8f"}
+[15:01:37]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:01:37]  DATA		{"using":"xpath","value":"//android.widget.RadioButton[@text='2P']"}
+[15:01:39]  RESULT		[{"ELEMENT":"ca309ba7-97b8-4810-bd3d-1faa4a1911c9"}]
+[15:01:39]  COMMAND	GET 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/screenshot"
+[15:01:39]  DATA		{}
+[15:01:39]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAtACAIAAABhuRNAAAAAAXNSR0IArs4c6QAAAANzQklUCAgI\n2+FP4AAAIABJREFUeJzs3Xd8k+X+//E7e7RpuksXUKTssmTLFBD3VtwD9bj3EQeKCu6jB48L99Hj\n8Rz3cbA3yEZW2astLd27aZKOjN8f9ce3JHfSJE2TJn0 ... (230982 more bytes)
+[15:01:39]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:01:39]  DATA		{"using":"xpath","value":"//android.widget.RadioButton[@text='2P']"}
+[15:01:41]  RESULT		{"ELEMENT":"1d28a1a0-e77d-4a1a-a77d-2f713e3c3a66"}
+[15:01:41]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/1d28a1a0-e77d-4a1a-a77d-2f713e3c3a66/click"
+[15:01:41]  DATA		{}
+[15:01:41]  RESULT		true
+[15:01:41]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:01:41]  DATA		{"using":"xpath","value":"//android.widget.Button[@resource-id='searchSimoq']"}
+[15:01:43]  RESULT		{"ELEMENT":"90f78252-2c25-4ae1-b363-c6b2ff2e6130"}
+[15:01:43]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:01:43]  DATA		{"using":"xpath","value":"//android.widget.Button[@resource-id='searchSimoq']"}
+[15:01:45]  RESULT		[{"ELEMENT":"c7e29d56-cce1-4c9e-9527-571797fe3e0b"}]
+[15:01:45]  COMMAND	GET 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/screenshot"
+[15:01:45]  DATA		{}
+[15:01:45]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAtACAIAAABhuRNAAAAAAXNSR0IArs4c6QAAAANzQklUCAgI\n2+FP4AAAIABJREFUeJzs3Xd8U9fdx/GrPWx5L2yzTGz23itsSLMXlJRskhSymj1ISEJD9mgzyWxm\nm90swt4bEobZ4GCWJ96WJdmyxvOH81AjXcmSLGv5837 ... (226150 more bytes)
+[15:01:45]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:01:45]  DATA		{"using":"xpath","value":"//android.widget.Button[@resource-id='searchSimoq']"}
+[15:01:46]  RESULT		{"ELEMENT":"20004237-c1a9-40f0-b497-22fb949d5141"}
+[15:01:46]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/20004237-c1a9-40f0-b497-22fb949d5141/click"
+[15:01:46]  DATA		{}
+[15:01:47]  RESULT		true
+[15:01:47]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:01:47]  DATA		{"using":"xpath","value":"//android.widget.Image[@text='Add To Cart']"}
+[15:01:50]  RESULT		{"ELEMENT":"99cb38d0-d73c-4363-9273-3ca76e179565"}
+[15:01:50]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:01:50]  DATA		{"using":"xpath","value":"//android.widget.Image[@text='Add To Cart']"}
+[15:01:52]  RESULT		[{"ELEMENT":"e1a3777f-3310-4498-bc7a-55e56352db06"}]
+[15:01:52]  COMMAND	GET 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/screenshot"
+[15:01:52]  DATA		{}
+[15:01:53]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAtACAIAAABhuRNAAAAAAXNSR0IArs4c6QAAAANzQklUCAgI\n2+FP4AAAIABJREFUeJzs3XdgW9Xd//Fzr7ZkSd47mwxICHsGEmhCoKWDUtrCQ3+lixYKXQ80QFgF\nwih00ZbVQgd9OoBSRsseZQTIDgkhIQlJnMQz3pKnxr2 ... (579684 more bytes)
+[15:01:53]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:01:53]  DATA		{"using":"xpath","value":"//android.widget.Image[@text='Add To Cart']"}
+[15:01:55]  RESULT		{"ELEMENT":"21350d2f-a578-4375-af70-57f786048620"}
+[15:01:55]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/21350d2f-a578-4375-af70-57f786048620/click"
+[15:01:55]  DATA		{}
+[15:01:55]  RESULT		true
+[15:01:55]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:01:55]  DATA		{"using":"xpath","value":"//android.widget.Button[@resource-id='cartCount']"}
+[15:01:59]  RESULT		{"ELEMENT":"b3588405-53b6-4be0-98c1-3f631a25b6dd"}
+[15:01:59]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:01:59]  DATA		{"using":"xpath","value":"//android.widget.Button[@resource-id='cartCount']"}
+[15:02:01]  RESULT		[{"ELEMENT":"d32cf524-ee4e-4a46-a868-07d91902ac6b"}]
+[15:02:01]  COMMAND	GET 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/screenshot"
+[15:02:01]  DATA		{}
+[15:02:02]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAtACAIAAABhuRNAAAAAAXNSR0IArs4c6QAAAANzQklUCAgI\n2+FP4AAAIABJREFUeJzs3XeAXFXd//Fz7/SZnZntPZ0UILTQCSRAQlHUBxEVH/iJiiiIHaSE3hFU\nRKUpqA9WRERUepESSkijhIQkJNkk23e2zu7O7pR7f3/ ... (578324 more bytes)
+[15:02:02]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:02:02]  DATA		{"using":"xpath","value":"//android.widget.Button[@resource-id='cartCount']"}
+[15:02:05]  RESULT		{"ELEMENT":"1a2659a2-35d0-4b14-b5a7-8a8ca5f6f43e"}
+[15:02:05]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/1a2659a2-35d0-4b14-b5a7-8a8ca5f6f43e/click"
+[15:02:05]  DATA		{}
+[15:02:05]  RESULT		true
+[15:02:05]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:02:05]  DATA		{"using":"xpath","value":"//android.widget.Button[contains(@text,'Checkout')]"}
+[15:02:07]  RESULT		{"ELEMENT":"2aaae0e2-c2ad-4201-9acc-cc6599b4721e"}
+[15:02:07]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:02:07]  DATA		{"using":"xpath","value":"//android.widget.Button[contains(@text,'Checkout')]"}
+[15:02:08]  RESULT		[{"ELEMENT":"f93314dd-9f82-442c-9cc1-887073c4d05c"}]
+[15:02:08]  COMMAND	GET 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/screenshot"
+[15:02:08]  DATA		{}
+[15:02:09]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAtACAIAAABhuRNAAAAAAXNSR0IArs4c6QAAAANzQklUCAgI\n2+FP4AAAIABJREFUeJzs3Xl8VPW9//Hv98xktux7SNgRBUFUFFBQkU2puHSzV2utvbe11lZtbdUi\niEtFabXtz2629db21tpFu2it1WrdEJEdhOKCSFizkck ... (161534 more bytes)
+[15:02:09]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:02:09]  DATA		{"using":"xpath","value":"//android.widget.Button[contains(@text,'Checkout')]"}
+[15:02:10]  RESULT		{"ELEMENT":"28cbc5ad-f1ff-44c7-88af-54650245cc65"}
+[15:02:10]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/28cbc5ad-f1ff-44c7-88af-54650245cc65/click"
+[15:02:10]  DATA		{}
+[15:02:10]  RESULT		true
+[15:02:10]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:02:10]  DATA		{"using":"xpath","value":"//android.widget.EditText[contains(@text,'Project Name')]"}
+[15:02:13]  RESULT		{"ELEMENT":"1009a281-82e8-494f-a9c2-1b7af64e2e68"}
+[15:02:13]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:02:13]  DATA		{"using":"xpath","value":"//android.widget.EditText[contains(@text,'Project Name')]"}
+[15:02:13]  RESULT		[{"ELEMENT":"5491c8b4-4943-46c9-a424-16981f322656"}]
+[15:02:13]  COMMAND	GET 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/screenshot"
+[15:02:13]  DATA		{}
+[15:02:14]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAtACAIAAABhuRNAAAAAAXNSR0IArs4c6QAAAANzQklUCAgI\n2+FP4AAAIABJREFUeJzs3Xl8XHW9//Hv98w+k5nsSbN0p9ACLfvOpWxiBQEXUNSreH+IgiIKKvsi\nyiLg7hWvXldEr7iiIiBCAdsCZSstBbrQPXsm6yQzySz ... (129200 more bytes)
+[15:02:14]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:02:14]  DATA		{"using":"xpath","value":"//android.widget.EditText[contains(@text,'Project Name')]"}
+[15:02:15]  RESULT		{"ELEMENT":"315f4519-b626-4774-a13f-2e2c92e877e0"}
+[15:02:15]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/315f4519-b626-4774-a13f-2e2c92e877e0/clear"
+[15:02:15]  DATA		{}
+[15:02:15]  RESULT		"Element Cleared"
+[15:02:15]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/315f4519-b626-4774-a13f-2e2c92e877e0/value"
+[15:02:15]  DATA		{"value":["S","i","m","o","Q","T","e","s","t"],"text":"SimoQTest"}
+[15:02:15]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:02:15]  DATA		{"using":"xpath","value":"//android.widget.EditText[contains(@text,'Project Location')]"}
+[15:02:16]  RESULT		{"ELEMENT":"79825e2a-7e81-4af5-8498-95b810dddcc8"}
+[15:02:16]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:02:16]  DATA		{"using":"xpath","value":"//android.widget.EditText[contains(@text,'Project Location')]"}
+[15:02:17]  RESULT		[{"ELEMENT":"8f531247-0171-4120-bb93-7b738dcc0714"}]
+[15:02:17]  COMMAND	GET 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/screenshot"
+[15:02:17]  DATA		{}
+[15:02:17]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAtACAIAAABhuRNAAAAAAXNSR0IArs4c6QAAAANzQklUCAgI\n2+FP4AAAIABJREFUeJzs3XecXHW9//HvOdNndma2t2w6gQRIAgkdJDQxUq8KinoV7w9RUURBpRdR\nioDdK169VkSvWBEQECEQkwChJCQESCF9+87W2Z3Zaef ... (138322 more bytes)
+[15:02:17]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:02:17]  DATA		{"using":"xpath","value":"//android.widget.EditText[contains(@text,'Project Location')]"}
+[15:02:18]  RESULT		{"ELEMENT":"a816c3f5-1b54-4eba-8584-10dffa468b7a"}
+[15:02:18]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/a816c3f5-1b54-4eba-8584-10dffa468b7a/clear"
+[15:02:18]  DATA		{}
+[15:02:18]  RESULT		"Element Cleared"
+[15:02:18]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/a816c3f5-1b54-4eba-8584-10dffa468b7a/value"
+[15:02:18]  DATA		{"value":["S","i","m","o","Q","T","e","s","t","L","(7 more items)"],"text":"SimoQTestLocation"}
+[15:02:19]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:02:19]  DATA		{"using":"xpath","value":"//android.widget.Spinner[@resource-id='undefined']"}
+[15:02:20]  RESULT		{"ELEMENT":"61d919f9-7883-4ccc-a4b9-9f44a3bed78d"}
+[15:02:20]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:02:20]  DATA		{"using":"xpath","value":"//android.widget.Spinner[@resource-id='undefined']"}
+[15:02:21]  RESULT		[{"ELEMENT":"5b504b6e-c096-4b0f-9864-8ed978205f5e"}]
+[15:02:21]  COMMAND	GET 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/screenshot"
+[15:02:21]  DATA		{}
+[15:02:21]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAtACAIAAABhuRNAAAAAAXNSR0IArs4c6QAAAANzQklUCAgI\n2+FP4AAAIABJREFUeJzs3XecXHW9//HvOdNndma2t2w6gQRIAgkdJDQxUq8KinoV7w9RUURBpRdR\nioDdK169VkSvWBEQECEQkwChJCQESCF9+87W2Z3Zaef ... (149784 more bytes)
+[15:02:21]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:02:21]  DATA		{"using":"xpath","value":"//android.widget.Spinner[@resource-id='undefined']"}
+[15:02:22]  RESULT		{"ELEMENT":"e59bfb1a-ffac-4d45-9e39-bec77b03bfd5"}
+[15:02:22]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/e59bfb1a-ffac-4d45-9e39-bec77b03bfd5/click"
+[15:02:22]  DATA		{}
+[15:02:22]  RESULT		true
+[15:02:22]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:02:22]  DATA		{"using":"xpath","value":"//android.widget.RadioButton[contains(@text,'Bangalore Office')]"}
+[15:02:31]  RESULT		{"ELEMENT":"026d0db4-1513-4da9-b681-b5f81a4347a4"}
+[15:02:31]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:02:31]  DATA		{"using":"xpath","value":"//android.widget.RadioButton[contains(@text,'Bangalore Office')]"}
+[15:02:43]  RESULT		[{"ELEMENT":"8f0ece5e-2d19-46ae-9e20-2967d8e88608"}]
+[15:02:43]  COMMAND	GET 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/screenshot"
+[15:02:43]  DATA		{}
+[15:02:44]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAtACAIAAABhuRNAAAAAAXNSR0IArs4c6QAAAANzQklUCAgI\n2+FP4AAAIABJREFUeJzs3XlgG+Wd//FnRrdlSb4dHzkJJFAS7rM0XGVTKHS3hS1tf912tycsbWEL\n5SblCoXCFrb39qC0tN1e28JyQ0OAJilnQg4IISF2Et+ ... (251374 more bytes)
+[15:02:44]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:02:44]  DATA		{"using":"xpath","value":"//android.widget.RadioButton[contains(@text,'Bangalore Office')]"}
+[15:02:55]  RESULT		{"ELEMENT":"249ec8c9-e5e3-4858-909b-ef6c79a0b8f1"}
+[15:02:55]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/249ec8c9-e5e3-4858-909b-ef6c79a0b8f1/click"
+[15:02:55]  DATA		{}
+[15:02:55]  RESULT		true
+[15:02:55]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:02:55]  DATA		{"using":"xpath","value":"//android.widget.Button[contains(@text,'Place Enquiry')]"}
+[15:02:58]  RESULT		{"ELEMENT":"5b5d3724-5e97-45d6-9bdb-6b5f1f70c1e9"}
+[15:02:58]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:02:58]  DATA		{"using":"xpath","value":"//android.widget.Button[contains(@text,'Place Enquiry')]"}
+[15:02:59]  RESULT		[{"ELEMENT":"a02c33be-cf6c-4a85-b806-5996795ac66b"}]
+[15:02:59]  COMMAND	GET 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/screenshot"
+[15:02:59]  DATA		{}
+[15:02:59]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAtACAIAAABhuRNAAAAAAXNSR0IArs4c6QAAAANzQklUCAgI\n2+FP4AAAIABJREFUeJzs3XecXHW9//HvOdNndma2t2w6gQRIAgkdJDQxUq8KinoV7w9RUURBpRdR\nioDdK169VkSvWBEQECEQkwChJCQESCF9+87W2Z3Zaef ... (248500 more bytes)
+[15:02:59]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:02:59]  DATA		{"using":"xpath","value":"//android.widget.Button[contains(@text,'Place Enquiry')]"}
+[15:03:01]  RESULT		{"ELEMENT":"4264e141-1ff3-4847-99db-f6d36c8ac7a9"}
+[15:03:01]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/4264e141-1ff3-4847-99db-f6d36c8ac7a9/click"
+[15:03:01]  DATA		{}
+[15:03:01]  RESULT		true
+[15:03:01]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:03:01]  DATA		{"using":"xpath","value":"//android.view.View[contains(@text,'Thank you')]"}
+[15:03:04]  RESULT		{"ELEMENT":"e8f789b3-6d2f-490b-94ee-6d1d063e349f"}
+[15:03:04]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/elements"
+[15:03:04]  DATA		{"using":"xpath","value":"//android.view.View[contains(@text,'Thank you')]"}
+[15:03:04]  RESULT		[{"ELEMENT":"80b9d3d6-2cbd-4adb-a43c-5a0a7d0611f0"}]
+[15:03:04]  COMMAND	GET 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/screenshot"
+[15:03:04]  DATA		{}
+[15:03:04]  RESULT		"iVBORw0KGgoAAAANSUhEUgAABaAAAAtACAIAAABhuRNAAAAAAXNSR0IArs4c6QAAAANzQklUCAgI\n2+FP4AAAIABJREFUeJzs3XecpXdh3/szvfeys11alZWQogZIQnRsYhw6tgCBbNywDbnXOI6JE8cx\n13aSaxtwgjF2YnC5CAmBMUUWASQj7YJWDdRWWklbtNq ... (125428 more bytes)
+[15:03:04]  COMMAND	POST 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element"
+[15:03:04]  DATA		{"using":"xpath","value":"//android.view.View[contains(@text,'Thank you')]"}
+[15:03:05]  RESULT		{"ELEMENT":"eee3cac9-1af8-4191-9583-d2a3f84b2017"}
+[15:03:05]  COMMAND	GET 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289/element/eee3cac9-1af8-4191-9583-d2a3f84b2017/text"
+[15:03:05]  DATA		{}
+[15:03:05]  RESULT		"Thank you for your Interest."
+[15:03:10]  COMMAND	DELETE 	 "/wd/hub/session/cc3e29e6-a224-4948-aef8-d10f4ba69289"
+[15:03:10]  DATA		{}

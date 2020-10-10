@@ -5,11 +5,11 @@
     "userName2" : "",
     "password2" : "",
     "database_Config" : {
-        "url": "jdbc:oracle:thin:RINS2_CORE_USER/welcometoapplerinscoreuser@//zina.corp.apple.com:1752/rinsd",
+        "url": "jdbc:oracle:thin:TEST_CORE_USER/welcometocoreuser@//abc.corp.test.com:8890/testuser",
 	    "drivername": "oracle.jdbc.driver.OracleDriver",
 	    "minpoolsize": 5,
 	    "maxpoolsize": 10,
-	    "user": "RINS2_CORE_USER",
-	    "password": "welcometoapplerinscoreuser@"
+	    "user": "TEST_CORE_USER",
+	    "password": "welcometocoreuser@"
     }
 }
